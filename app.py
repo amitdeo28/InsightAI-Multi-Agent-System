@@ -82,7 +82,7 @@ st.markdown(
     <div class="masthead"><div class="brand"><span class="brand-mark">I</span>InsightAI</div>
     <div class="tag">Evidence-led research studio</div></div>
     <section class="hero"><div class="eyebrow">A four-part research workflow</div>
-    <h1>Find the signal.<br><em>Make it useful.</em></h1>
+    <h1>Let intelligent agents<br><em>research, reason, and deliver clarity.</em></h1>
     <p>Turn a broad question into a clear, sourced brief. InsightAI coordinates discovery, reading, synthesis, and quality review in one focused workspace.</p></section>
     """,
     unsafe_allow_html=True,
